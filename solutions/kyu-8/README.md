@@ -1,0 +1,1 @@
+# Codewars - Solutions - 8 kyu
