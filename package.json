@@ -1,0 +1,22 @@
+{
+  "name": "codewars",
+  "version": "0.0.1",
+  "description": "Codewars solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "format": "standard"
+  },
+  "keywords": [
+    "codewars"
+  ],
+  "author": "sb-studios",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "standard": "^17.1.2"
+  },
+  "standard": {
+      "globals": [ "test", "expect" ]
+    }
+}
